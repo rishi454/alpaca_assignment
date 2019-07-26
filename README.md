@@ -19,4 +19,4 @@ I have Plot the clustered data visualization
 # Step 6
  I have created the function to run local implementation of kmeans
  
- To complete this assignment I have spent 2 hours of time.
+ To complete this assignment I have spent 1 hours of time.
